@@ -1,45 +1,4 @@
 {
     "type": "FeatureCollection",
-    "features": [
-        {
-            "type": "Feature",
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    3.983336,
-                    49.084189
-                ]
-            },
-            "properties": {
-                "id": "recKGhvZd3BfLCUDu",
-                "createdTime": "2024-11-20T15:00:23.000Z",
-                "fields": {
-                    "Nom": "test_2",
-                    "Description": "dfffdfd\n",
-                    "Adresse": "15 rue bel air, 51160 champillon",
-                    "Email": "dzdada@gmail.com",
-                    "T\u00e9l\u00e9phone": "(064) 547-1323",
-                    "Type": "Viticulture conventionnelle",
-                    "Tags": [
-                        "test"
-                    ],
-                    "Parcellaire": [
-                        {
-                            "id": "attfD8V1dXQwl4cds",
-                            "url": "https://v5.airtableusercontent.com/v3/u/35/35/1732557600000/IL1Epwy75mAN05S-J1_ZtA/gwfJVAPu39g9tG-tgBgyoXhZXqg1YCBWT3WleRCryFizlDMp22MKJp9Yl5_1dDnJ6E95ubLws-1ZIXCQL7r8GUoS-rsont0XrwF3d3A8Ynz17N_NDLBrZ8AqqgOr49ugSNY7kcIEoq3ApP6y6TyGaupuesLQP3UTToHjsmdma9hNBn2zHDjYA6VSTBDcCxOe/QlpGCrTFv1kIZYGBUq1c04RJvZud2AQ8IZdr-fJ42lo",
-                            "filename": "ParcellaireDetail_20_11_2024.csv",
-                            "size": 5062,
-                            "type": "text/csv"
-                        }
-                    ],
-                    "Longitude": 3.983336,
-                    "Latitude": 49.084189,
-                    "Date de cr\u00e9ation": "2024-11-20T15:00:23.000Z",
-                    "Statut_json": "En attente",
-                    "json_url": "https://api.jsonbin.io/v3/b/67448e3aacd3cb34a8ae9075",
-                    "Derni\u00e8re modification": "2024-11-25T14:50:30.000Z"
-                }
-            }
-        }
-    ]
+    "features": []
 }
